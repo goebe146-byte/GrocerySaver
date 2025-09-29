@@ -1,2 +1,0 @@
-# GrocerySaver
-App Project
